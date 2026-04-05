@@ -8,4 +8,5 @@ We derived and verified the ordinary differential equations for both systems aga
 
 ## Hardware & Components
 **Lorenz Attractor Circuit:** Utilized MPY634 analog multipliers and LF412 op-amps.
+
 **Jerk Circuit:** Constructed with LF412 op-amps, silicon diodes, 1kΩ resistors, and 0.1µF capacitors.
